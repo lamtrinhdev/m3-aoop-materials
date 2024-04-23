@@ -1,6 +1,7 @@
-# Advanced Object-Oriented Programming: Materials
+# Object-Oriented Programming: Beyond the Basics: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Object-Oriented Programming: Beyond the Basics](https://www.kodeco.com/ios/paths/object-oriented-programming/42881556-object-oriented-programming-beyond-the-basics)** from [Kodeco](https://www.kodeco.com).
+This repo contains all the downloadable materials and projects associated with the **Object-Oriented Programming: Beyond the Basics** module in **[Object-Oriented Programming in iOS Course](https://www.kodeco.com/ios/paths/object-oriented-programming)**.
+This course is part of [Introduction to iOS Program](https://www.kodeco.com/ios/programs/introduction-to-ios), which you can take as on-demand bootcamp from [Kodeco](https://www.kodeco.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
